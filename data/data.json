@@ -1,0 +1,39 @@
+{
+    "Apps": [
+        "Twitter",
+        "Stripe",
+        "Uber",
+        "Slack",
+        "Google Maps",
+        "Yik-Yak",
+        "Airbnb"
+    ],
+    "Demographics": [
+        "Republicans",
+        "Low income families",
+        "Special needs kids",
+        "Retirees",
+        ""
+    ],
+    "Industry": [
+        "Lawyers",
+        "Hollywood",
+        "Wallstreet"
+    ]
+    "Places": [
+        "South-East Asia",
+        "Africa",
+        "The rust belt",
+        "The deep south",
+        "Pacific Islands"
+    ]
+    "Simple Technologies": [
+        "Operating system",
+        "Database",
+        "Internet"
+    ]
+    "Templates": [
+        The $()
+    ]
+
+}
