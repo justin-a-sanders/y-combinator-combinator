@@ -6,34 +6,47 @@
         "Slack",
         "Google Maps",
         "Yik-Yak",
-        "Airbnb"
+        "Airbnb",
+        "Robinhood",
+        "Amazon",
+        "LinkedIn",
+        "Venmo"
     ],
     "Demographics": [
         "Republicans",
         "Low income families",
         "Special needs kids",
         "Retirees",
-        ""
+        "Crypto",
+        "Muslims",
+        "Low skilled workers"
     ],
     "Industry": [
         "Lawyers",
         "Hollywood",
-        "Wallstreet"
-    ]
+        "Wallstreet",
+        "Realtors",
+        "Web3",
+        "Chefs",
+        "Truckers"
+    ],
     "Places": [
         "South-East Asia",
         "Africa",
         "The rust belt",
         "The deep south",
-        "Pacific Islands"
-    ]
+        "Pacific Islands",
+        "Indonesia"
+    ],
     "Simple Technologies": [
         "Operating system",
         "Database",
         "Internet"
-    ]
+    ],
     "Templates": [
-        The $()
+        "The ${Simple Technologies} of ${Industry}",
+        "${App} for ${Demographic}"
+        "${App} for ${Demographic} in ${Place}"
+        ""
     ]
-
 }
