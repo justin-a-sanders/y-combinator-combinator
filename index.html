@@ -1,0 +1,18 @@
+<html>
+<head>
+  <title>This is so stupid</title>
+</head>
+<body>
+    <p id='tech'></p> for <p id='dem'></p> in <p id='place'></p>
+</body>
+<script type="text/javascript" src="data/data.json"></script>
+<script type="text/javascript">
+  const d = JSON.parse(data);
+  const tech = d[0].Technologies
+  const dem = d[0].Demographics
+  const place = d[0].Places
+  document.getElementById('tech').innerHTML = tech[Math.floor(Math.random()*tech.length)];
+  document.getElementById('dem').innerHTML = dem[Math.floor(Math.random()*dem.length)];
+  document.getElementById('place').innerHTML = place[Math.floor(Math.random()*place.length)];
+</script>
+</html>
